@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="18px" viewBox="0 0 15 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-geo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets" transform="translate(-35.000000, -188.000000)">
+            <g id="icon-geo" transform="translate(35.000000, 188.000000)">
+                <rect id="Background" x="0" y="0" width="15" height="18"></rect>
+                <path d="M7.5,18 C2.5,13.6939331 0,10.172194 0,7.43478261 C0,3.32866556 3.35786438,0 7.5,0 C11.6421356,0 15,3.32866556 15,7.43478261 C15,10.172194 12.5,13.6939331 7.5,18 Z M7.5,9.39130435 C9.02604997,9.39130435 10.2631579,8.16495388 10.2631579,6.65217391 C10.2631579,5.13939395 9.02604997,3.91304348 7.5,3.91304348 C5.97395003,3.91304348 4.73684211,5.13939395 4.73684211,6.65217391 C4.73684211,8.16495388 5.97395003,9.39130435 7.5,9.39130435 Z" fill="#6F45E0"></path>
+            </g>
+        </g>
+    </g>
+</svg>

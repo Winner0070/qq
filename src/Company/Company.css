@@ -1,0 +1,85 @@
+.company {
+    text-align: justify;
+    color: white;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    height: 200rem;
+    background: linear-gradient(#000000, #041e27);
+}
+.company_conter h1{
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-size: 2em;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+
+.company img{
+    margin-top: 5rem;
+    position: absolute;
+    width: 116.04rem;
+    height: auto;
+    
+}
+
+.company_conter {
+    margin-left: 4rem;
+    background-color: black;
+    font-size: xx-large;
+}
+
+.company_conter_ZEG h1 {
+    text-align: justify;
+    margin-top: 4rem;
+    margin-left: 31rem;
+    display: flex;
+    font-size: x-large;
+    width: 58rem;
+    color: white;
+}
+
+.compony_A {
+    margin-left: 5rem;
+    font-size: large;
+    margin-top: 5rem;
+    text-align: center;
+}
+
+.company_A_text {
+    text-align: justify;
+    margin-left: 35rem;
+    margin-top: 58rem;
+}
+
+.company_A_text h3 {
+    font-size: x-large;
+}
+
+.company_A_A_text h1 {
+    font-size: xxx-large;
+    margin-top: 6rem;
+    text-align: center;
+    margin-left: 2rem;
+}
+
+.company_A_A_text h1 li {
+    width: 40rem;
+    margin-top: 2.6rem;
+    margin-left: 10rem;
+    font-size: large;
+    text-align: justify;
+}
+
+.company_A_A_text img {
+    position: absolute;
+    width: 30rem;
+    height: auto;
+    margin-left: 75rem;
+
+}

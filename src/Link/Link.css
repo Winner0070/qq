@@ -1,0 +1,85 @@
+.about {
+    display: flex;
+    height: 850px;
+
+}
+
+#gorila {
+    z-index: -1;
+    position: absolute;
+    width: 116rem;
+    height: 53rem;
+    filter: brightness(20%) blur(2px);
+}
+
+.about_conter {
+    margin-left: 10rem;
+    margin-top: 12rem;
+    width: 100rem;
+}
+
+.about_conter_text {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    margin: auto;
+    color: rgb(255, 255, 255);
+    margin-right: 20px;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5vw;
+    font-weight: 500;
+    width: 50vw;
+    color: rgb(255, 255, 255);
+}
+
+.glava1 img {
+    margin-top: 1.4rem;
+    width: 37rem;
+    height: auto;
+}
+
+.glava1 {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: medium;
+    position: absolute;
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10rem;
+    margin-top: 5rem;
+    color: rgb(255, 255, 255);
+}
+
+.glava1 h1 {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size:xxx-large;
+}
+
+.glava1_form {
+    font-weight: 600;
+    width: 120px;
+}
+
+.tokio {
+    display: flex;
+    position: absolute;
+}
+
+.tokio img {
+    z-index: 1;
+    margin-top: 35.1rem;
+    justify-content: center;
+    align-items: center;
+    width: 116rem;
+    height: 18rem;
+
+}

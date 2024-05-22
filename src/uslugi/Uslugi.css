@@ -1,0 +1,136 @@
+.uslugi {
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    height: 290rem;
+}
+
+.zagol {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    color: white;
+    font-size: xx-large;
+}
+
+.uslugi_conter {
+
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    height: 100%;
+}
+
+.uslugi_conter_1 {
+    color: rgb(255, 255, 255);
+    display: flex;
+}
+.uslugi_conter_1 h1 {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    margin-top: 5rem;
+    margin-left: 115px;
+    width: 1000px;
+    font-size: xx-large;
+}
+
+.uslugi_text_1 h3 {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    color: white;
+    font-size: xx-large;
+}
+
+.uslugi_text_1 img{
+    margin-top: 10rem;
+}
+
+.uslugi_conter_2 {
+    margin-top: 10rem;
+    color: white;
+}
+
+.uslugi_conter_2 h1 {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    margin-top: 5rem;
+    margin-left: 115px;
+    width: 1000px;
+    font-size: xx-large;
+}
+
+.uslugi_text_2 h3 {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    color: white;
+    font-size: xx-large;
+}
+
+.uslugi_text_2 img {
+    margin-top: 10rem;
+    margin-right: 10rem;
+    width: 45rem;
+    height: auto;
+}
+
+.uslugi_conter_3 {
+    margin-top: 10rem;
+    color: white;
+}
+
+.uslugi_conter_3 h1 {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    margin-top: 5rem;
+    margin-left: 115px;
+    width: 1000px;
+    font-size: xx-large;
+}
+
+.uslugi_text_3 h3 {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    color: white;
+    font-size: xx-large;
+}
+
+.uslugi_text_3 img {
+    margin-top: 10rem;
+    width: 40rem;
+}
+
+.uslugi_conter_4 {
+    margin-top: 10rem;
+    color: white;
+}
+
+.uslugi_conter_4 h1 {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    margin-top: 5rem;
+    margin-left: 115px;
+    width: 1000px;
+    font-size: xx-large;
+}
+
+.uslugi_text_4 h3 {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    color: white;
+    font-size: xx-large;
+}
+
+.uslugi_text_4 img {
+    margin-top: 4rem;
+    width: 40rem;
+}

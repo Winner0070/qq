@@ -1,0 +1,151 @@
+.navbar{
+    display: grid;
+    height: 90px;
+    background-color: rgb(26, 97, 119, 0.521);
+
+
+}
+
+.navbar_conter {
+    z-index: 3;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    height: 100%;
+}
+
+.novbar_logo {
+    display: flex;
+    color: rgb(255, 255, 255);
+    height: 90px;
+    margin-right: 610px;
+}
+
+.novbar_logo img {
+    width: 200px;
+    height: auto;
+    margin-right: 7px;
+}
+
+.font_M {
+    font-family: "MPLUSRounded1c-Medium", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+}
+
+.novbar_menu h1 {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    width: 2rem;
+    display: inline;
+    margin: auto;
+    color: rgb(255, 255, 255);
+    margin-right: 20px;
+}
+
+.novbar_menu h1 a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    position: relative;
+}
+
+.novbar_menu h1 a:before {
+    content: '';
+    position: absolute;
+    height: 3px;
+    width: 100%;
+    background: #ffffff;
+    left: 0;
+    bottom: 0;
+    transform: scale(0);
+    transition: .2s;
+    transform-origin: left;
+}
+
+
+.novbar_menu h1 a:hover:before {
+    transform: scale(1);
+}
+
+.novbar_1 h1 {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    width: 2rem;
+    display: inline;
+    margin: auto;
+    color: rgb(255, 255, 255);
+    margin-right: 20px;
+}
+
+
+.novbar_1 h1 a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    position: relative;
+}
+
+
+.novbar_1 h1 a:before {
+    content: '';
+    position: absolute;
+    height: 3px;
+    width: 100%;
+    background: #ffffff;
+    left: 0;
+    bottom: 0;
+    transform: scale(0);
+    transition: .2s;
+    transform-origin: left;
+}
+
+
+.novbar_1 h1 a:hover:before {
+    transform: scale(1);
+}
+
+.novbar_2 h1 {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    width: 2rem;
+    display: inline;
+    margin: auto;
+    color: rgb(255, 255, 255);
+    margin-right: 20px;
+}
+
+
+.novbar_2 h1 a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    position: relative;
+}
+
+
+.novbar_2 h1 a:before {
+    content: '';
+    position: absolute;
+    height: 3px;
+    width: 100%;
+    background: #ffffff;
+    left: 0;
+    bottom: 0;
+    transform: scale(0);
+    transition: .2s;
+    transform-origin: left;
+}
+
+
+.novbar_2 h1 a:hover:before {
+    transform: scale(1);
+}

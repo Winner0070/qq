@@ -1,0 +1,70 @@
+.Footer {
+    display: grid;
+    color: white;
+    height: 15rem;
+    background: linear-gradient(#041e27,#000);
+}
+
+.footer_coner {
+    background-color: rgb(255, 255, 255);
+    width: 95rem;
+    height: 1px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer_coner_info {
+    margin-top: 2rem;
+}
+
+.footer_coner_info img {
+    width: 13rem;
+    height: auto;
+}
+
+.links_footer {
+    margin-top: 3rem;
+    display: flex;
+    color: white;
+    font-size: small;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 40;
+}
+
+.footer_1 {
+    margin-left: 3rem;
+}
+
+.footer_1:hover {
+    color: #0d5e79;
+}
+
+.footer_2:hover {
+    color: #0d5e79;
+}
+
+.footer_2 {
+    margin-left: 3rem;
+}
+
+.footer_menu {
+    color: white;
+}
+
+.footer_menu:hover {
+    color: #0d5e79;
+}
+
+.footer_info_end {
+    margin-left: 10rem;
+    margin-top: 1.6rem;
+    display: flex;
+}
+
+.footer_info_end li {
+    font-size: large;
+    margin-left: 3rem;
+}
+
